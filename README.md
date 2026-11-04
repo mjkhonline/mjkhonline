@@ -5,10 +5,10 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · mjkhonline</sub></p>
 <h1>Mohammad Javad Khademian</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>software engineer</h2>
 <p>Tech Lead Manager @nobitex</p>
 <p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Tehran-Iran · Building at Nobitex</sub></p>
+<p><sub>Based in Earth 🌍· Building at Nobitex</sub></p>
 <p><a href="https://github.com/mjkhonline">GitHub</a> &nbsp;·&nbsp; <a href="https://e-query.js.org">Website</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
